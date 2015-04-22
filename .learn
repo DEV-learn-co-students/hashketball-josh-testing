@@ -5,4 +5,5 @@ tags:
 - something
 languages:
 - ruby
+- javascript
 resources: 1
