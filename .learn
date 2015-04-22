@@ -3,7 +3,6 @@ tags:
 - hashes
 - iteration
 - something
-- test
 languages:
 - ruby
 - javascript
