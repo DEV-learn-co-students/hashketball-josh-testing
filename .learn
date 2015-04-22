@@ -1,6 +1,8 @@
+---
 tags:
-  - hashes
-  - iteration
+- hashes
+- iteration
+- something
 languages:
-  - ruby
+- ruby
 resources: 1
