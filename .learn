@@ -7,4 +7,5 @@ languages:
 - ruby
 - javascript
 - python
+- elixir
 resources: 1
