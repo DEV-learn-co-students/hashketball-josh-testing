@@ -7,4 +7,5 @@ tags:
 languages:
 - ruby
 - javascript
+- python
 resources: 1
