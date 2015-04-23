@@ -1,11 +1,11 @@
-----		
--tags:		
--- hashes		
--- iteration		
--- something		
--languages:		
--- ruby		
--- javascript		
--- python		
--- elixir		
--resources: 1
+---		
+tags:		
+- hashes		
+- iteration		
+- something		
+languages:		
+- ruby		
+- javascript		
+- python		
+- elixir		
+resources: 1
